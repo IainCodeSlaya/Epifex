@@ -1,0 +1,7 @@
+{
+  "name": "EpifexMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
